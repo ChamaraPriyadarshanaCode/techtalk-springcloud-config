@@ -1,1 +1,3 @@
-student-key: hello, from repo
+config:
+  server:
+    student-key: hello, from repo
